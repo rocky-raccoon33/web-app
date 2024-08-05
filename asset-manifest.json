@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rocky-raccoon33/web-app/static/css/main.f855e6bc.css",
+    "main.js": "/rocky-raccoon33/web-app/static/js/main.1490a7d7.js",
+    "static/js/453.cc15c77c.chunk.js": "/rocky-raccoon33/web-app/static/js/453.cc15c77c.chunk.js",
+    "index.html": "/rocky-raccoon33/web-app/index.html",
+    "main.f855e6bc.css.map": "/rocky-raccoon33/web-app/static/css/main.f855e6bc.css.map",
+    "main.1490a7d7.js.map": "/rocky-raccoon33/web-app/static/js/main.1490a7d7.js.map",
+    "453.cc15c77c.chunk.js.map": "/rocky-raccoon33/web-app/static/js/453.cc15c77c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.1490a7d7.js"
+  ]
+}
